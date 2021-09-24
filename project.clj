@@ -103,5 +103,5 @@
                  [kibu/pushy "0.3.8"]
                  [com.cognitect/transit-clj "0.8.300"]
                  [io.clojure/liberator-transit "0.3.1"]
-                 [liberator "0.15.1"]])
-:min-lein-version "1.1.5"
+                 [liberator "0.15.1"]]
+:min-lein-version "1.1.5")

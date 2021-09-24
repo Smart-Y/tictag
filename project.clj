@@ -32,7 +32,7 @@
                                        :output-to       "resources/public/js/compiled/app.js"
                                        :optimizations   :advanced}}]}
   :plugins [[lein-cljsbuild "1.1.5"]]
-  :min-lein-version "1.1.5"
+  :min-lein-version "2.0.0"
   :test-paths ["test/clj"]
   :profiles {:uberjar {:aot        :all
                        :jvm-opts ["-Xms1024m" "-Xmx2048m"]
